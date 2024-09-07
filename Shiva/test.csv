@@ -1,0 +1,20 @@
+Heat Sink Efficiency (Percentage),Ambient Temperature (Degree Centigrade),Power Dissipation (W),Operating Voltage (V),Thermal Stability (Pass/Fail),Suggestions
+68.6,36.96,4.91,1.22,Pass,OK
+87.99,22.36,7.89,1.87,Pass,OK
+97.6,42.23,7.91,1.34,Pass,OK
+94.04,69.13,6.28,1.73,Pass,OK
+62.85,27.35,4.13,1.59,Pass,OK
+67.11,28.24,6.02,1.75,Pass,OK
+79.54,81.52,5.66,1.79,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+81.66,94.35,9.11,1.24,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+86.3,79.08,7.74,1.82,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+77.44,95.81,9.81,1.91,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+78.85,76.09,8.88,1.92,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+97.02,98.32,6.37,1.99,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+94.5,99.05,5.28,1.94,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+89.76,90.99,9.27,1.85,Fail,"Lower Ambient Temperature, Reduce Power Dissipation, Adjust Voltage Closer to 1.5V"
+50.28,58.8,7.08,1.61,Fail,"Increase Heat Sink Efficiency, Reduce Power Dissipation"
+53.7,38.93,5.54,1.34,Fail,"Increase Heat Sink Efficiency, Reduce Power Dissipation"
+55.79,54.33,9.83,1.39,Fail,"Increase Heat Sink Efficiency, Reduce Power Dissipation"
+51.57,55.93,9.78,1.47,Fail,"Increase Heat Sink Efficiency, Reduce Power Dissipation"
+55.5,58.85,7.75,1.61,Fail,"Increase Heat Sink Efficiency, Reduce Power Dissipation"
